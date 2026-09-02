@@ -1,9 +1,0 @@
-{
-  "availableModels": ["haiku", "sonnet"],
-  "env": {
-    "ANTHROPIC_BASE_URL": "https://adesso-ai-hub.3asabc.de",
-    "ANTHROPIC_MODEL": "claude-haiku-4-5",
-    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "claude-haiku-4-5",
-    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-5"
-  }
-}

@@ -1,0 +1,13 @@
+{
+  "model": "qwen-3.6-35b-sovereign",
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://adesso-ai-hub.3asabc.de",
+    "ANTHROPIC_MODEL": "qwen-3.6-35b-sovereign",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "claude-haiku-4-5",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-5",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "claude-opus-5"
+  },
+  "enabledPlugins": {
+    "skill-creator@claude-plugins-official": true
+  }
+}

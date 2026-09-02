@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:oddspedia.com)",
+      "WebFetch(domain:www.ligainsider.de)",
+      "WebFetch(domain:www.flashscore.de)",
+      "WebFetch(domain:ligainsider.de)",
+      "WebFetch(domain:www.tipico.de)",
+      "WebFetch(domain:www.forebet.com)",
+      "WebFetch(domain:www.oddschecker.com)",
+      "WebFetch(domain:www.wette.de)",
+      "WebFetch(domain:wc.sportwetten24.com)",
+      "WebFetch(domain:www.888sport.de)",
+      "WebFetch(domain:www.skysports.com)",
+      "WebFetch(domain:www.wettfreunde.net)",
+      "WebFetch(domain:footystats.org)",
+      "Bash(python3 *)",
+      "WebFetch(domain:www.fussballdaten.de)",
+      "WebFetch(domain:www.kicker.de)",
+      "WebFetch(domain:fcbayern.com)"
+    ]
+  }
+}
