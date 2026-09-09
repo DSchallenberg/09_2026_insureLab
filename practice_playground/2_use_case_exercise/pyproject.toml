@@ -1,0 +1,22 @@
+[project]
+name = "2-use-case-exercise"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "DSchallenberg", email = "98987974+DSchallenberg@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.5",
+    "pytest>=9.1.1",
+    "streamlit>=1.63.0",
+]
+
+[project.scripts]
+2-use-case-exercise = "2_use_case_exercise:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
